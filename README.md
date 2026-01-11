@@ -23,7 +23,6 @@ Perfect for public speaking, presentations, interviews, or confidence-building e
 - **Interactive Visualizations** – Recharts-powered emotion timelines and speaking rate graphs
 - **Google OAuth Authentication** – Secure user login with Google accounts
 - **Analysis History & Dashboard** – SQLite database stores all analyses for progress tracking
-- **PDF Export** – Generate professional PDF reports of speech analyses
 
 ---
 
